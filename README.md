@@ -46,6 +46,25 @@ After cleaning the dataset, we start building visualizations:
 <img width="1690" height="790" alt="image" src="https://github.com/user-attachments/assets/29846b31-84d9-42c9-9a29-ae3c88a9b348" />
 <br><br><br>
 
-## 
+## Insights
+The analysis of the Amazon Electronics dataset reveals several key insights about consumer behavior, brand performance, and sales trends over time:
 
+1. Customer Ratings and Product Quality:
+The majority of products sold have a 5-star rating, indicating strong customer satisfaction and good product quality. However, the presence of 1-star and 2-star reviews suggests that some products still fail to meet customer expectations. Reducing low-rated items should be a focus to minimize returns and maintain customer trust.
 
+2. Gender-based Purchase Trends:
+The data shows that male customers purchased more electronic products compared to female customers. This could reflect broader consumer behavior trends where men show a higher purchase frequency in the electronics category.
+
+3. Sales Trends Over Time:
+Between 2000 and 2006, there was a gradual increase in product sales, followed by a slight dip around 2007, and then a strong upward surge until 2015. The year 2015 marked the peak of electronic product sales, highlighting a period of high consumer demand and market expansion. After 2015, sales sharply declined, which may indicate market saturation or shifts in product availability or consumer interest.
+
+4. Top Performing Brands:
+Among all brands, Logitech emerged as the highest-selling, followed closely by Bose and Sony. These brands consistently outperformed competitors, likely due to strong brand recognition, product diversity, and customer trust in their audio and computer accessory products.
+
+5. Category-wise Performance:
+The Headphones category recorded the highest number of products sold, followed by Computers & Accessories and Camera & Photo products. This highlights consumers’ continued focus on personal audio and computing devices as essential tech accessories.
+
+## Conclusion
+The electronics market on Amazon experienced strong growth up to 2015, driven by popular brands and consistently high product ratings. The dominance of categories like Headphones and Computers & Accessories suggests consumers’ focus on convenience and entertainment.
+
+Future strategies should aim to maintain product quality, reduce low-rated products, and explore ways to revive post-2015 sales decline through innovation, pricing strategies, or targeted promotions.
