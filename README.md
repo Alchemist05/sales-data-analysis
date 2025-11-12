@@ -31,7 +31,7 @@ After cleaning the dataset, we start building visualizations:
 <br><br><br>
 
 ### Total sales by year and rating
-<img width="1290" height="790" alt="image" src="https://github.com/user-attachments/assets/f22f534f-764e-4eea-abf7-981f6872154b" />
+<img width="1290" height="790" alt="image" src="https://github.com/user-attachments/assets/c719519b-14e7-4e63-8db0-cb92f4118a83" />
 <br><br><br>
 
 ### Number products sold by brand
