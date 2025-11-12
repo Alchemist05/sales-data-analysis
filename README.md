@@ -23,11 +23,26 @@ After cleaning the dataset, we start building visualizations:
 
 As we can see the proportion of products sold that got 5 stars is significantly higher which indicates healthy quality.
 
+
+
+
+
 - Products Sold By Gender
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/2c0c6c50-43ad-4bde-a3ec-8d702a05c4ba" />
 
+
+
+
+
 - Total Sales by Year and Ratings
 <img width="1290" height="790" alt="image" src="https://github.com/user-attachments/assets/f22f534f-764e-4eea-abf7-981f6872154b" />
+
+
+
+
+
+- Number Products Sold By Brand
+<img width="901" height="405" alt="image" src="https://github.com/user-attachments/assets/d519c25d-5816-4c72-a5c6-d2d1669ce325" />
 
  
 
