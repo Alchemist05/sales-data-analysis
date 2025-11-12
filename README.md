@@ -18,31 +18,41 @@ This analysis will help derive data-driven insights into consumer behavior and b
 ## Insights
 After cleaning the dataset, we start building visualizations:
 
-- Total Products Sold (absolute)
+### Total Products Sold (absolute)
 <img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/913153ad-31e1-4b5c-8400-86d123c021c4" />
+<br>
+<br>
+<br>
 
-As we can see the proportion of products sold that got 5 stars is significantly higher which indicates healthy quality.
-
-
-
-
-
-- Products Sold By Gender
+### Products Sold By Gender
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/2c0c6c50-43ad-4bde-a3ec-8d702a05c4ba" />
+<br>
+<br>
+<br>
 
-
-
-
-
-- Total Sales by Year and Ratings
+### Total sales by year and rating
 <img width="1290" height="790" alt="image" src="https://github.com/user-attachments/assets/f22f534f-764e-4eea-abf7-981f6872154b" />
+<br>
+<br>
+<br>
 
-
-
-
-
-- Number Products Sold By Brand
+### Number products sold by brand
 <img width="901" height="405" alt="image" src="https://github.com/user-attachments/assets/d519c25d-5816-4c72-a5c6-d2d1669ce325" />
+<br>
+<br>
+<br>
 
- 
+### Number of products sold by category
+<img width="722" height="389" alt="image" src="https://github.com/user-attachments/assets/372b7f2d-a9e1-46e5-80fb-14ef01f6c481" />
+<br>
+<br>
+<br>
+
+### Category wise and year wise products sold by top performing companies
+<img width="1690" height="790" alt="image" src="https://github.com/user-attachments/assets/29846b31-84d9-42c9-9a29-ae3c88a9b348" />
+<br>
+<br><br>
+
+## 
+
 
